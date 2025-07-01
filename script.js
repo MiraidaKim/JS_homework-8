@@ -9,5 +9,5 @@ function findMax(array) {
 }
 
 console.log(findMax([1, 5, 3, 9, 2]))      
-console.log(findMax([100, 200, 2, 4]))     
+console.log(findMax([7, 7, 7, 7, 7]))    
 console.log(findMax([-10, -5, -1, -20]))   
